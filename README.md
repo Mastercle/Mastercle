@@ -28,8 +28,8 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 🇬🇾 I was born in Georgetown, Guyana
-- 🇱🇨   Living in St. Lucia   
+- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/GY-Guyana-Flag-icon.png" width="25" height="20"/> I was born in Georgetown, Guyana
+- <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/LC-Saint-Lucia-Flag-icon.png" width="25" height="20"/>   Living in St. Lucia   
 - 🌱 I’m currently learning new tools such as Python, Docker, Jenkins, Kubernetes
 - 🏆 I'm working towards becoming a DevOps Engineer..
 - 👯 Always ready to collaborate and help others...
