@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=#2B1DD4size=45&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Hi+there+my+name+is+Cleon+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%#2B1DD4size=45&center=true&vCenter=true&multiline=true&width=1500&height=300&lines=Hi+there+my+name+is+Cleon+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h1 align="left"> Technologies and Tools I use:</h1>
 <p align="left">
